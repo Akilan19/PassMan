@@ -1,0 +1,44 @@
+.inner1{
+    width:350px;
+    height:500px;
+    background-color: black;
+    margin-top: 50px;
+    border-radius: 12px;
+}
+
+body{
+    background-color: #0e1016;
+}
+
+.outer1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.but1{
+    width:215px;
+    height: 40px;
+    margin-left:70px;
+}
+
+.nam112{
+    margin-top:40px;
+    margin-left:130px;
+    font-size: 30px;
+    color:white;
+}
+
+img1
+{
+    margin-top:7px;
+    margin-left:90px;
+    width:40px;
+    height:40px;
+}
+
+.nam111{
+    margin-left:80px;
+    color:white;
+}

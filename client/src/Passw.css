@@ -1,0 +1,18 @@
+.out1{
+    display:flex;
+    flex-direction: column;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+.in1{
+    font-size: 50px;
+}
+
+.b1t{
+    font-size: larger;
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
